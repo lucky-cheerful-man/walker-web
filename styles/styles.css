@@ -1,0 +1,10 @@
+body {
+    background-image:url(../images/tiger.png);
+    background-color:#b0c4de;
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size: 700px;
+    width: 300px;
+    height: 800px;
+    opacity:1;  
+}
